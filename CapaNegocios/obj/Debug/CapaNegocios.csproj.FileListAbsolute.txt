@@ -42,3 +42,14 @@ C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\C
 C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
 C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.dll
 C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\Clases.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\Clases.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.pdb
