@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6BB93ED2-85FD-424E-B553-4551067E1D0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Modales\modalAlbum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modales\modalAlbum.Designer.cs">
+      <DependentUpon>modalAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modales\modalAutores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modales\modalAutores.Designer.cs">
+      <DependentUpon>modalAutores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modales\modalCandidata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modales\modalCandidata.Designer.cs">
+      <DependentUpon>modalCandidata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modales\modalVerAlbum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modales\modalVerAlbum.Designer.cs">
+      <DependentUpon>modalVerAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisitaCandidata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisitaCandidata.Designer.cs">
+      <DependentUpon>VisitaCandidata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="votacionFotogenia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="votacionFotogenia.Designer.cs">
+      <DependentUpon>votacionFotogenia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="votacionReina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="votacionReina.Designer.cs">
+      <DependentUpon>votacionReina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vtnCrearAlbum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vtnCrearAlbum.Designer.cs">
+      <DependentUpon>vtnCrearAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vtnCandidata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vtnCandidata.Designer.cs">
+      <DependentUpon>vtnCandidata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vtnLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vtnLogin.Designer.cs">
+      <DependentUpon>vtnLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="vtnMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vtnMenu.Designer.cs">
+      <DependentUpon>vtnMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vtnRecuperarClave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vtnRecuperarClave.Designer.cs">
+      <DependentUpon>vtnRecuperarClave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vtnResultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vtnResultados.Designer.cs">
+      <DependentUpon>vtnResultados.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Modales\modalAlbum.resx">
+      <DependentUpon>modalAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modales\modalAutores.resx">
+      <DependentUpon>modalAutores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modales\modalCandidata.resx">
+      <DependentUpon>modalCandidata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modales\modalVerAlbum.resx">
+      <DependentUpon>modalVerAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VisitaCandidata.resx">
+      <DependentUpon>VisitaCandidata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="votacionFotogenia.resx">
+      <DependentUpon>votacionFotogenia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="votacionReina.resx">
+      <DependentUpon>votacionReina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vtnCrearAlbum.resx">
+      <DependentUpon>vtnCrearAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vtnCandidata.resx">
+      <DependentUpon>vtnCandidata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vtnLogin.resx">
+      <DependentUpon>vtnLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vtnMenu.resx">
+      <DependentUpon>vtnMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vtnRecuperarClave.resx">
+      <DependentUpon>vtnRecuperarClave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vtnResultados.resx">
+      <DependentUpon>vtnResultados.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{d8862ac3-674b-42b5-91ea-64fec14582c9}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocios\CapaNegocios.csproj">
+      <Project>{9a593e56-217c-4a0e-aa50-30186c22e91e}</Project>
+      <Name>CapaNegocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Clases\Clases.csproj">
+      <Project>{87f7628a-802a-4565-9ca9-f9dc4b193b5b}</Project>
+      <Name>Clases</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\informacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mostrarcontraseña.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vote.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vote1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconovoto1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

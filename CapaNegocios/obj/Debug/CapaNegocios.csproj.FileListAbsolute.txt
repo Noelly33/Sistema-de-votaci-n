@@ -1,0 +1,44 @@
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\Clases.dll
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\bin\Debug\Clases.pdb
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\herma\source\repos\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\Clases.dll
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\Clases.pdb
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Usuario\Downloads\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\Clases.dll
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\Clases.pdb
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\herma\Downloads\Proyecto_POE (3)\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\Clases.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\bin\Debug\Clases.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaNegocios\obj\Debug\CapaNegocios.pdb

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\usuario\\source\\repos\\proyecto_poe\\proyecto_poe\\capapresentacion\\modales\\modalautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\modalautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\usuario\\source\\repos\\proyecto_poe\\proyecto_poe\\capapresentacion\\modales\\modalalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\modalalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\usuario\\source\\repos\\proyecto_poe\\proyecto_poe\\capapresentacion\\vtnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\vtnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8862AC3-674B-42B5-91EA-64FEC14582C9}|CapaDatos\\CapaDatos.csproj|c:\\users\\usuario\\source\\repos\\proyecto_poe\\proyecto_poe\\capadatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8862AC3-674B-42B5-91EA-64FEC14582C9}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modalAutores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAutores.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\modalAutores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAutores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\modalAutores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:40:11.235Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modalAlbum.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAlbum.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\modalAlbum.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAlbum.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\modalAlbum.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:40:02.505Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaDatos\\Datos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Datos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaDatos\\Datos.cs",
+              "RelativeToolTip": "CapaDatos\\Datos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:29:58.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vtnLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\vtnLogin.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\vtnLogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\vtnLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\vtnLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:30:22.071Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
