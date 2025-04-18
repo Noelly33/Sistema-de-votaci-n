@@ -34,3 +34,12 @@ C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaDatos\obj\Debug\Capa
 C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
 C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Usuario\source\repos\Proyecto_POE\Proyecto_POE\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaDatos\bin\Debug\Clases.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaDatos\bin\Debug\Clases.pdb
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Usuario\source\repos\Proyecto_POE\CapaDatos\obj\Debug\CapaDatos.pdb

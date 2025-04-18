@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\usuario\\source\\repos\\proyecto_poe\\proyecto_poe\\capapresentacion\\modales\\modalautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\modalautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D8862AC3-674B-42B5-91EA-64FEC14582C9}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\capadatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8862AC3-674B-42B5-91EA-64FEC14582C9}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\capapresentacion\\modales\\modalalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9A593E56-217C-4A0E-AA50-30186C22E91E}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\usuario\\source\\repos\\proyecto_poe\\capanegocios\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A593E56-217C-4A0E-AA50-30186C22E91E}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\usuario\\source\\repos\\proyecto_poe\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\capapresentacion\\modales\\modalalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\modalalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\capapresentacion\\vtnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\vtnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\usuario\\source\\repos\\proyecto_poe\\capapresentacion\\modales\\modalautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\modalautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8862AC3-674B-42B5-91EA-64FEC14582C9}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\capadatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8862AC3-674B-42B5-91EA-64FEC14582C9}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\capapresentacion\\vtnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BB93ED2-85FD-424E-B553-4551067E1D0C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\vtnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,11 +70,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaNegocios\\Negocio.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\Negocio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaNegocios\\Negocio.cs",
+              "RelativeToolTip": "CapaNegocios\\Negocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:51:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:45:18.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "modalAutores.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAutores.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAutores.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\modalAutores.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAutores.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAutores.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\Modales\\modalAutores.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:40:11.235Z",
@@ -74,35 +108,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "modalAlbum.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAlbum.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\modalAlbum.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAlbum.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaPresentacion\\Modales\\modalAlbum.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\Modales\\modalAlbum.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T19:40:02.505Z"
+              "WhenOpened": "2024-11-13T19:40:02.505Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Datos.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaDatos\\Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaDatos\\Datos.cs",
               "RelativeDocumentMoniker": "CapaDatos\\Datos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaDatos\\Datos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaDatos\\Datos.cs",
               "RelativeToolTip": "CapaDatos\\Datos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T19:29:58.613Z"
+              "WhenOpened": "2024-11-13T19:29:58.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "vtnLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\vtnLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\CapaPresentacion\\vtnLogin.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\vtnLogin.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_POE\\Proyecto_POE\\CapaPresentacion\\vtnLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\vtnLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_POE\\CapaPresentacion\\vtnLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:30:22.071Z"
             }
