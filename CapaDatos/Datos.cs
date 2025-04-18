@@ -13,7 +13,7 @@ namespace CapaDatos
     {
         public SqlConnection ConexioBDD()
         {
-            SqlConnection cn = new SqlConnection("server= DESKTOP-TFVCTTI ; database=  PROYECTO_POE_FCMF; integrated security=true;");//Conexion BD
+            SqlConnection cn = new SqlConnection("server= DESKTOP-TFVCTTI\\SQLEXPRESS ; database=  SISTEMA_DE_VOTACION; integrated security=true;");//Conexion BD
             cn.Open();
             return cn;
         }
